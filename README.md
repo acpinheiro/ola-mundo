@@ -1,2 +1,3 @@
-# ola mundo
- primeiro repositorio versionado com git e github
+# olá, mundo!
+corrigi o readme
+primeiro repositorio versionado com git e github
